@@ -29,7 +29,7 @@ DATASET:
 
 SYNTHETIC:
   CAMERA_FILE: 'calibration_campus.json'
-  POSE_FILE: '../panoptic_training_pose.pkl'
+  POSE_FILE: 'panoptic_training_pose.pkl'
   MAX_PEOPLE: 5
   RANDOM_SCALE_HEATMAP: true
   RANDOM_ERASE_HEATMAP: false
